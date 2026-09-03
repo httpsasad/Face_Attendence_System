@@ -67,8 +67,8 @@ face_recognition_attendance_system/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/face_recognition_attendance_system.git
-cd face_recognition_attendance_system
+git clone https://github.com/httpsasad/Face_Attendence_System.git
+cd Face_Attendence_System
 ```
 
 ### 2. Install Dependencies
