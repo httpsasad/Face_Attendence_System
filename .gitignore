@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.log
+data/attendance.db
+data/known_faces/encodings.pkl
+data/reports/*.csv
+.venv/
+env/

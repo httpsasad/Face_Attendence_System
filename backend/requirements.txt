@@ -1,0 +1,12 @@
+flask
+flask-socketio
+flask-cors
+requests
+opencv-python<5.0
+face_recognition
+face_recognition_models
+dlib-bin
+setuptools<70
+numpy
+pandas
+Pillow
